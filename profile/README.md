@@ -4,7 +4,7 @@
 
 Welcome to the official development and research command center for **MAH Quantum**. We are a deep-tech engineering foundry dedicated to pushing the boundaries of distributed AI infrastructure, model quantization, and high-performance edge computing. 
 
-Our mission is simple: to empower the next generation of software engineers and researchers by giving them direct, unmediated access to enterprise-grade AI hardware. We don't just teach code—we build production-ready systems.
+Our mission is simple: to empower the next generation of software engineers and researchers by giving them direct, unmediated access to enterprise-grade AI hardware. We don't just teach code-we build production-ready systems.
 
 ### Our Vision & Physical Infrastructure
 The future of artificial intelligence does not live exclusively in centralized data centers; it lives at the edge. 
