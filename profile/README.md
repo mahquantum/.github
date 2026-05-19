@@ -1,4 +1,4 @@
-# 🌌 MAH Quantum | Edge-Compute & AI Systems Foundry
+# MAH Quantum | Edge-Compute & AI Systems Foundry
 
 **Bridging the gap between theoretical data science and bare-metal edge execution.**
 
