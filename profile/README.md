@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌌 MAH QUANTUM
+# MAH QUANTUM
 ### Edge-Compute & AI Systems Foundry
 
 [![NVIDIA NGC](https://img.shields.io/badge/NVIDIA%20NGC-Infrastructure-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://catalog.ngc.nvidia.com/orgs/0963318590610147)
